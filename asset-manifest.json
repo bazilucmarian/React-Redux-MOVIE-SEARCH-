@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Redux-MOVIE-SEARCH-/static/css/main.d20d7e65.chunk.css",
+    "main.js": "/React-Redux-MOVIE-SEARCH-/static/js/main.3bfa4d78.chunk.js",
+    "main.js.map": "/React-Redux-MOVIE-SEARCH-/static/js/main.3bfa4d78.chunk.js.map",
+    "runtime-main.js": "/React-Redux-MOVIE-SEARCH-/static/js/runtime-main.15a0b536.js",
+    "runtime-main.js.map": "/React-Redux-MOVIE-SEARCH-/static/js/runtime-main.15a0b536.js.map",
+    "static/js/2.2317a145.chunk.js": "/React-Redux-MOVIE-SEARCH-/static/js/2.2317a145.chunk.js",
+    "static/js/2.2317a145.chunk.js.map": "/React-Redux-MOVIE-SEARCH-/static/js/2.2317a145.chunk.js.map",
+    "index.html": "/React-Redux-MOVIE-SEARCH-/index.html",
+    "precache-manifest.49e936b1bfb13b083f1478bab99b1344.js": "/React-Redux-MOVIE-SEARCH-/precache-manifest.49e936b1bfb13b083f1478bab99b1344.js",
+    "service-worker.js": "/React-Redux-MOVIE-SEARCH-/service-worker.js",
+    "static/css/main.d20d7e65.chunk.css.map": "/React-Redux-MOVIE-SEARCH-/static/css/main.d20d7e65.chunk.css.map",
+    "static/js/2.2317a145.chunk.js.LICENSE.txt": "/React-Redux-MOVIE-SEARCH-/static/js/2.2317a145.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a0b536.js",
+    "static/js/2.2317a145.chunk.js",
+    "static/css/main.d20d7e65.chunk.css",
+    "static/js/main.3bfa4d78.chunk.js"
+  ]
+}
